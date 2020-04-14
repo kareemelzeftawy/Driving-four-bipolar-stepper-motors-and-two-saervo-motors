@@ -1,0 +1,13 @@
+Adafruit 16 Channel Servo Driver with Raspberry Pi: https://learn.adafruit.com/adafruit-16-channel-servo-driver-with-raspberry-pi?view=all
+Adafruit 16-Channel Servo Driver with Arduino: https://learn.adafruit.com/16-channel-pwm-servo-driver?view=all
+Adafruit Python PCA9685: https://github.com/adafruit/Adafruit_Python_PCA9685
+
+Activity 6 - Testing the Servos: https://learn.parallax.com/tutorials/robot/shield-bot/robotics-board-education-shield-arduino/chapter-2-shield-lights-servo-4
+PCA9685 16 Channel 12 Bit PWM Servo Driver: http://wiki.sunfounder.cc/index.php?title=PCA9685_16_Channel_12_Bit_PWM_Servo_Driver
+
+Servo Motor: https://www.aliexpress.com/item/Free-shipping-1PCS-17HS3430-3D-Printer-Nema17-for-12VDC-2800g-cm-34mm-length-4-Lead-42/32802147221.html?spm=a2g0s.9042311.0.0.27424c4db6TPX9
+Servo Motor Datasheet: http://www.datasheetspdf.com/pdf-down/1/7/H/17HS2408-MotionKing.pdf
+
+Easy Driver: https://learn.sparkfun.com/tutorials/easy-driver-hook-up-guide
+Easy Driver projetc: http://www.schmalzhaus.com/EasyDriver/
+Easy Driver github code: https://github.com/davef21370/EasyDriver
